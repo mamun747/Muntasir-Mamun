@@ -17,15 +17,6 @@ Skills:  PYTHON/ / JS / HTML / CSS / Git & Github / Sass / ES6 / DOM / BOM / JSO
 
 - 📫 How to reach me **technoultra42@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="center">
-<a href="https://fb.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mamun747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamun747" height="30" width="40" /></a>
-<a href="https://instagram.com/tutul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-</p>
-
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -48,15 +39,6 @@ Skills:  PYTHON/ / JS / HTML / CSS / Git & Github / Sass / ES6 / DOM / BOM / JSO
 
 <br/>
 
-## Best Repo -
-
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=mamun747&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mamun747/Muntasir-Mamun)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=mamun747&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mamun747/front_end_projects)
-
-<p align="left">
-  <a href="https://github.com/mamun747?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
 <br/>
 <hr/>
 <br/>
@@ -65,7 +47,7 @@ Skills:  PYTHON/ / JS / HTML / CSS / Git & Github / Sass / ES6 / DOM / BOM / JSO
 
 <p align="center">
   <a href="https://github.com/mamun747">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamun747&theme=radical" alt="Harun's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamun747&theme=radical" alt="Mamuns's GitHub Contribution"/>
   </a>
 </p>
 
@@ -78,20 +60,3 @@ Skills:  PYTHON/ / JS / HTML / CSS / Git & Github / Sass / ES6 / DOM / BOM / JSO
 ![Mamun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mamun747&custom_title=Mamun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
-
-<br/>
-
-## Connect with me
-
-<div align="center">
-<br/>
-<a href="https://twitter.com/tutul181" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
-<a href="https://www.linkedin.com/in/mamun747/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
-<a href="https://www.facebook.com/tutul181" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
-</a>  
-</div>
