@@ -13,7 +13,7 @@ Skills:  PYTHON/ / JS / HTML / CSS / Git & Github / Sass / ES6 / DOM / BOM / JSO
 
 - 🔭 I’m currently learning front-end web development on [Hablu Programmer](https://www.hablu-programmer.com/)
 - 👨‍💻 All of my projects are available at [https://github.com/mamun747](https://github.com/mamun747)
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, Tailwind CSS, SASS**
 
 - 📫 How to reach me **technoultra42@gmail.com**
 
